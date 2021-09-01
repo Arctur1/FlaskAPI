@@ -1,0 +1,2 @@
+SQLALCHEMY_DATABASE_URI='postgresql://rozhn:rozhn@127.0.0.1:5432/flask_test'
+SQLALCHEMY_TRACK_MODIFICATIONS= False
